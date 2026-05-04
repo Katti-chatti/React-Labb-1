@@ -1,7 +1,7 @@
 Jag har gjort en simpel to do list eller task manager som hämtar data från jsonplaceholder.
 GET används för att hämta tasks
 POST används för att skapa och lägga upp en task med en titel och body, med validering: man behöver minst en titel. Jag la till en completion toggle för att checka av tasks och en prioritering toggle[!].
-PUT
+PUT används för att uppdatera en task, man kan redigera titel och body
 DELETE tar bort en task med ett rött kryss på högra sidan av kortet men en bekräftelse innan tasks tas bort.
 
 Jag valde att gå för dessa VG punkter:
